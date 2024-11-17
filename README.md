@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @zealous-ideal-monk, also known as Harshil Srivastav.
+- 👀 I’m interested in Web3, blockchain, game development, Rust, and full-stack development. 
+- 🌱 I’m currently learning Rust and working on improving my coding skills through projects.
+- 💞️ I’m looking to collaborate on Web3 projects, hackathons, and cross-platform app development ideas.
+- 📫 How to reach me: harshil.3690@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have experience in stand-up comedy and know five languages: English, Hindi, Bhojpuri, Gujarati, and German!
+- 🎓 I’m a B.Tech 2nd-year student specializing in CSE Core at SRM University, Delhi-NCR.  
+- 🛠️ I’m proficient in building frontends with HTML, CSS, JavaScript, and Tailwind, and backends using Python.  
+- 🏆 I’ve participated in various hackathons including HashHacks by DU and Smart India Hackathon.  
+- 🌐 I’m the Event Head of the Genesis Web3 Society at my university. 
+- 🌍 I aim to contribute to open-source projects that drive sustainability and social impact.  
+- 🧩 Always curious to learn new technologies and experiment with innovative ideas!  
