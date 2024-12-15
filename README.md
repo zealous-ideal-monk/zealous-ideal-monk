@@ -12,10 +12,6 @@
 - 🌍 I aim to contribute to open-source projects that drive sustainability and social impact.  
 - 🧩 Always curious to learn new technologies and experiment with innovative ideas!
 
-- # 💫 About Me:
-🔭 I’m currently working on An anonymous and secure app similar to Reddit.<br>👯 I’m looking to collaborate on Web3 projects, hackathons, and innovative app development.<br>🤝 I’m looking for help with Enhancing the security features of my app and exploring decentralized solutions.<br>🌱 I’m currently learning Rust programming, competitive coding, and enhancing my stand-up comedy writing skills.<br>💬 Ask me about Web3 development, hackathon experiences, app development, and stand-up comedy.<br>⚡ Fun fact: I can speak five languages fluently, and I’ve competed in both tech and creative competitions like debates and hackathons!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oof_harshil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshil-srivastav-5b67bb2b5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ u/Medium-Strawberry-59 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ifwcode) 
 
