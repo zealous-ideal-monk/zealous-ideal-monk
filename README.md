@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @zealous-ideal-monk, also known as Harshil Srivastav
+- 👋 Hi, I’m @zealous-ideal-monk, also known as Harshil Srivastav.
 - 👀 I’m interested in Web3, blockchain, game development, Rust, and full-stack development. 
 - 🌱 I’m currently learning Rust and working on improving my coding skills through projects.
 - 💞️ I’m looking to collaborate on Web3 projects, hackathons, and cross-platform app development ideas.
